@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Aiman-khan-123
+- 👀 I’m interested in Web and App Development.
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on Mern Projects
+- 📫 How to reach me you cann't bro just give up
+- ⚡ Fun fact: I am really good at learning new things.
